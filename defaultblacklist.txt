@@ -1,0 +1,78 @@
+AE # United Arab Emirates
+AF # Afghanistan 
+AM # Armenia 
+AO # Angola 
+AZ # Azerbaijan 
+BD # Bangladesh 
+BF # Burkina Faso 
+BH # Bahrain 
+BI # Burundi 
+BO # Bolivia (Plurinational State of) 
+BR # Brazil 
+BY # Belarus 
+CD # Congo (the Democratic Republic of the) 
+CF # Central African Republic 
+CG # Congo
+CM # Cameroon 
+CN # China 
+CU # Cuba 
+DJ # Djibouti 
+DZ # Algeria 
+EG # Egypt 
+ER # Eritrea 
+ET # Ethiopia 
+GA # Gabon 
+GN # Guinea 
+GQ # Equatorial Guinea 
+GW # Guinea-Bissau 
+HK # Hong Kong 
+HT # Haiti 
+ID # Indonesia 
+IN # India 
+IQ # Iraq 
+IR # Iran (Islamic Republic of) 
+JO # Jordan 
+KG # Kyrgyzstan 
+KH # Cambodia 
+KM # Comoros 
+KP # Korea (the Democratic People's Republic of)
+KW # Kuwait 
+KZ # Kazakhstan 
+LA # Lao People's Democratic Republic
+LB # Lebanon 
+LK # Sri Lanka 
+LY # Libya 
+MG # Madagascar 
+ML # Mali 
+MM # Myanmar
+MN # Mongolia 
+MZ # Mozambique 
+NA # Namibia 
+NE # Niger 
+NI # Nicaragua 
+OM # Oman 
+PK # Pakistan 
+PS # Palestine, State of
+QA # Qatar 
+RU # Russian Federation
+RW # Rwanda 
+SA # Saudi Arabia 
+SD # Sudan 
+SN # Senegal 
+SS # South Sudan 
+SV # El Salvador 
+SY # Syrian Arab Republic
+SZ # Eswatini
+TD # Chad 
+TG # Togo 
+TH # Thailand 
+TJ # Tajikistan 
+TM # Turkmenistan 
+TZ # Tanzania, the United Republic of
+UG # Uganda 
+UZ # Uzbekistan 
+VE # Venezuela (Bolivarian Republic of) 
+VN # Viet Nam
+YE # Yemen 
+ZA # South Africa 
+ZW # Zimbabwe 
